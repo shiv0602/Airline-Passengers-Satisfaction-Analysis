@@ -1,17 +1,14 @@
 # Airline-Passengers-Satisfaction-Analysis
- -  [Contents](Description)
- -  Description
- -  Project Details
- -  Key Performance Indicators (KPIs)
- -  Calculated KPIs
- -  Data Collection
- -  Skills
- -  Tech Stack
- -  Insights & Recommendations
- -  Dashboard
- -  Conclusion
-
-
+- [Description](#description)
+- [Project Details](#project-details)
+- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+- [Calculated KPIs](#kpis-that-were-calculated)
+- [Data Collection](#data-collection)
+- [Skills](#skills)
+- [Tech Stack](#tech-stack)
+- [Insights \& Recommendations](#insights--recommendations)
+- [Dashboard](#dashboard)
+- [Conclusion](#conclusion)
 # Description
 Analyzed an Airline Passenger Satisfaction dataset, identifying the key factors that were contributing to a recent dip in customer satisfaction rates by designing a Power BI dashboard report and recommending a data-driven strategy for increasing overall satisfaction rates. The insights gained from this project helped the airline take necessary action to improve their customer satisfaction rates and enhance the overall travel experience for passengers.
 # Project Details
