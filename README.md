@@ -11,6 +11,7 @@
 - [Dashboard](#dashboard)
 - [Conclusion](#conclusion)
 # Description
+![](https://github.com/shiv0602/Airline-Passengers-Satisfaction-Analysis/blob/main/Image_png/airport-indoors-people-804463.jpg)
 Analyzed an Airline Passenger Satisfaction dataset, identifying the key factors that were contributing to a recent dip in customer satisfaction rates by designing a Power BI dashboard report and recommending a data-driven strategy for increasing overall satisfaction rates. The insights gained from this project helped the airline take necessary action to improve their customer satisfaction rates and enhance the overall travel experience for passengers.
 # Project Details
 The airline industry is highly competitive, and customer satisfaction is a key factor that determines the success of an airline. The airline's leadership team has identified a recent dip in passenger satisfaction ratings which prompted them (the leadership team) to seek recommendations for a data-driven strategy to increase overall satisfaction rates.
