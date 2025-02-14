@@ -91,6 +91,7 @@ Data Modelling: Data modelling is the process of creating a conceptual represent
 -  DAX
 -  Microsoft Power BI
 # Insights & Recommendations
+![](https://github.com/shiv0602/Airline-Passengers-Satisfaction-Analysis/blob/main/Image_png/20240420_151407.jpg?raw=true)
 In-flight Wi-Fi Service is the worst-rated factor with an average rating of 2.73. Inspection and improvements should be done to reach quality standards. Additionally, improve the speed and reliability of the service and provide clear instructions for accessing the service.
 
 Online Booking should be optimized by exploring website analytics and improving UI/UX. Additionally, offer personalized recommendations and options to make the booking process more convenient and tailored to the individual customer.
